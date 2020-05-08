@@ -13,6 +13,7 @@
 #__PGYER_API_KEY="蒲公英的API Key"
 
 # 换行符
+#set -x
 __LINE_BREAK_LEFT="\n\033[32;1m*********"
 __LINE_BREAK_RIGHT="***************\033[0m\n"
 __SLEEP_TIME=0.3
